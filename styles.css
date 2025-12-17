@@ -1,0 +1,26 @@
+* {
+    background-color: beige;
+    color: rgb(54, 69, 79);
+    font-style: sans-serif;
+}
+
+h1 {
+    color: rgb(42, 62, 75);
+    text-align: center;
+}
+
+a:hover{
+    color: rgb(255, 99, 71);
+    
+}
+
+img{
+    width: 300px;
+    height:auto;
+}
+
+header{
+    font-size: 20px;
+}
+
+
